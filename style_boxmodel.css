@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+#Messi{
+    color: antiquewhite;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: xx-large;
+}
+#first{
+    background-color: aqua;
+    border: 3px solid black;
+    padding: 9px;
+    margin: 30px;  /*margin: auto;----gives equal margin from both sides*/
+    width: 255px;
+    border-radius: 10px;
+    /* can use padding-top/bottom/left/left to give padding from specific direction */
+    /* margin = top right bottom left;  */
+    /* padding = top right bottom left;  */
+
+    /* padding: 23px 56px 6px 78px;   */
+    /* margin: 23px 56px 6px 78px;   */
+    box-sizing: border-box;/*adjusts width according to padding*/
+
+}
+#second{
+    background-color: aqua;
+    border: 3px solid black;
+    padding: 9px;
+    margin: 30px;
+    width: 255px;
+    /* height: 100px; */
+    border-radius: 10px;
+    /* can use padding-top/bottom/left/left to give padding from specific direction */
+    /* margin = top right bottom left;  */
+    /* padding = top right bottom left;  */
+
+    /* padding: 23px 56px 6px 78px;   */
+    /* margin: 23px 56px 6px 78px;   */
+    box-sizing: border-box;/*adjusts width according to padding*/
+
+}
+#third{
+    background-color: aqua;
+    border: 3px solid black;
+    padding: 9px;
+    margin: 30px;
+    width: 255px;
+    border-radius: 10px;
+    /* can use padding-top/bottom/left/left to give padding from specific direction */
+    /* margin = top right bottom left;  */
+    /* padding = top right bottom left;  */
+
+    /* padding: 23px 56px 6px 78px;   */
+    /* margin: 23px 56px 6px 78px;   */
+    box-sizing: border-box;/*adjusts width according to padding*/
+
+}

@@ -1,0 +1,13 @@
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+/* using google fonts */
+/* go to a website choose a font and copy the required code */
+#para1{
+    font-family: "Playwrite CU", cursive;
+    font-size: 33px;
+    font-optical-sizing: auto;
+    /* font size * 1px = 1/96 of an inch/
+}
+    

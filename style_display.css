@@ -1,0 +1,66 @@
+/* <style> */
+    /*display:inline & display:block-------these are two options*/
+header{
+    width: 250px;     /*we can set width of block element only not inline elements*/
+    /* border: solid black 3px; */
+    margin: auto;
+}
+.navbar{
+    position: sticky;
+}
+.mainbox{
+    margin: auto;
+    width: 1235px;
+}
+.image{
+    display: block; /*to make it a block element so that i can center it*/
+    margin: auto;
+}
+.box{
+    margin: auto;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 400px;
+    border-right: solid black 3px;
+    border-bottom: solid black 3px;
+    /* padding: 20px; */
+    margin: 3px;
+    background-color: rgb(154, 251, 251);
+    padding: 30px;
+    border-radius: 15px;
+}
+/* </style> */
+.navbar{
+    background-color: black;
+    border-radius: 30px;
+    
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float:left;
+    list-style: none; 
+    margin: 13px 20px;
+    
+}
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar li a:hover{
+    color: blue
+}
+.search{
+    float: right;
+    color: white;
+    padding: 12px 75px;
+}
+.navbar input{
+    border: 2px solid black;
+    border-radius: 14px;
+    padding: 3px 17px;
+    width: 129px;
+}
