@@ -1,12 +1,16 @@
 /* <style> */
     /*display:inline & display:block-------these are two options*/
 header{
-    width: 250px;     /*we can set width of block element only not inline elements*/
-    /* border: solid black 3px; */
-    margin: auto;
+    width: 1500px;     /*we can set width of block element only not inline elements*/
+    border: solid black 3px;
+    /* margin: auto; */
+    /* position: sticky; */
+    background-color: aliceblue;
+    /* top: 3px; */
 }
-.navbar{
+.stick1{
     position: sticky;
+    top: 3px;
 }
 .mainbox{
     margin: auto;
